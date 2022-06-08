@@ -33,7 +33,7 @@ const  char * contraseña = "mz7srSbma6 " ;  // Aquí debes poner la contraseña
 
 // Datos del bróker MQTT
 const  char * mqtt_server = " 192.168.1.93 " ; // Si estas en una red local, coloca la IP indicada, en caso contrario, coloca la IP publica
-servidor de dirección IP ( 192 , 168 , 1 , 33 );
+servidor de dirección IP ( 192 , 168 , 1 , 93 );
 
 // Objetos
 WiFiCliente espCliente; // Este objeto maneja los datos de conexion WiFi
